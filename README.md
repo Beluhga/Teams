@@ -4,8 +4,6 @@
 
 # Sobre o projeto 
 
-Descrição do Projeto "Teams"
-
 O projeto "Teams" é uma aplicação móvel desenvolvida utilizando a tecnologia React Native, com o objetivo principal de facilitar a criação e gestão de grupos. A aplicação permite que os usuários criem e participem de diferentes equipes, tornando a colaboração e comunicação mais eficientes.
 
 Tecnologias Utilizadas:
